@@ -1,5 +1,5 @@
 
-name: RoadWatch daily roadworks alert
+name: RoadWatch daily roadworks 
 
 on:
   schedule:
